@@ -1,0 +1,15 @@
+# ninja log v5
+0	316	1677970842153748386	CMakeFiles/ExercisesFromCodecademy.dir/main.cpp.o	a24ab4eb299a9c78
+316	355	1677970842195839989	ExercisesFromCodecademy	9e49da223d09e370
+1	332	1678078113146358677	CMakeFiles/ExercisesFromCodecademy.dir/currency.cpp.o	bb640edbf017b3f3
+1	90	1678078137458086253	CMakeFiles/ExercisesFromCodecademy.dir/main.cpp.o	a24ab4eb299a9c78
+1	297	1678078137665206416	CMakeFiles/ExercisesFromCodecademy.dir/currency.cpp.o	bb640edbf017b3f3
+297	335	1678078137704964228	ExercisesFromCodecademy	cff9d146557560d2
+1	301	1678078162524713957	CMakeFiles/ExercisesFromCodecademy.dir/currency.cpp.o	bb640edbf017b3f3
+301	337	1678078162561891758	ExercisesFromCodecademy	cff9d146557560d2
+1	307	1678078455074077724	CMakeFiles/ExercisesFromCodecademy.dir/currency.cpp.o	bb640edbf017b3f3
+307	343	1678078455112150389	ExercisesFromCodecademy	cff9d146557560d2
+1	202	1678078471515228816	CMakeFiles/ExercisesFromCodecademy.dir/currency.cpp.o	bb640edbf017b3f3
+203	233	1678078471546243150	ExercisesFromCodecademy	cff9d146557560d2
+1	321	1678078924893403167	CMakeFiles/ExercisesFromCodecademy.dir/currency.cpp.o	bb640edbf017b3f3
+321	361	1678078924934359833	ExercisesFromCodecademy	cff9d146557560d2
